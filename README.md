@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ugo</h1>
-<h3 align="center">Passionate developer from France</h3>
+<h3 align="center">Passionate Developer from France</h3>
 
  📫 How to reach me **ugo.abbas@gmail.com**
 
