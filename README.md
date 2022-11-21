@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Developer from France</h3>
 
  📫 How to reach me **ugo.abbas@gmail.com**
+![BE3D7849-3910-47AE-BE33-64F2D02C966F](https://user-images.githubusercontent.com/115469942/203083899-0b196f92-2e2f-4e7b-8c1e-527fa2cfb456.png)
 
 
 <h3 align="left">Languages and Tools</h3>
