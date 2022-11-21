@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Ugo</h1>
-<h3 align="center">Passionate Developer from France</h3>
+<h1 align="center">Hi I'm Ugo</h1>
+<h3 align="center">Passionate Developer from France !</h3>
 
 ![BE3D7849-3910-47AE-BE33-64F2D02C966F](https://user-images.githubusercontent.com/115469942/203083899-0b196f92-2e2f-4e7b-8c1e-527fa2cfb456.png)
  
@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Languages and Tools</h3>
-width="40" height="40"
+
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
